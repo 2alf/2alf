@@ -7,6 +7,10 @@
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/?size=512&id=n3QRpDA7KZ7P&format=png" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/?size=512&id=55251&format=png" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/?size=512&id=69503&format=png" style="padding-right:10px;" />
+
 <br/>
 <br/>
 
